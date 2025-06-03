@@ -26,7 +26,7 @@ Atualmente estou aprimorando minhas habilidades com projetos reais e buscando op
 
 ### Tecnologias e Ferramentas
 
-- **Linguagens**: JavaScript | Python | Java  
+- **Linguagens**: JavaScript | Python | Java | PHP  
 - **Frameworks**: React Native | Node.js  
 - **Web**: HTML5 | CSS3  
 - **Ferramentas**: Git | GitHub | VS Code  
